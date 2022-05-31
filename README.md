@@ -1,1 +1,1 @@
-# swiftyChallange
+# swiftyChallenge
